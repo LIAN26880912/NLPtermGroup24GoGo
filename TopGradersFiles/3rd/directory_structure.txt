@@ -1,0 +1,10 @@
+.
+./models
+./configs
+./data
+./src
+./src/config
+./src/callbacks
+./src/training
+./src/models
+./src/data
